@@ -22,7 +22,7 @@ eng.txt = 53313 Sentence
 ## Training Configuration
 
 - Number of epochs: 50 (with early stopping)
-- Batch size: 16
+- Batch size: 64
 - Learning rate: 0.001
 - Validation split: 10%
 - Early stopping patience: 3 epochs
